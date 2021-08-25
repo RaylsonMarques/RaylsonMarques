@@ -1,5 +1,4 @@
-# Raylson Marques
-@RaylsonMarques
+# Olá, Eu sou Raylson Marques
 
 <div>
   <a href="https://github.com/RaylsonMarques">
@@ -16,12 +15,16 @@
   <img align="center" alt="Raylson Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
-<br>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/RaylsonMarques)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/raylson-alves-marques/)
-
 ##
+
+<div>
+  <a href="https://www.linkedin.com/in/raylson-alves-marques/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mr.raylson11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ### Sobre mim
 Eu sou um desenvolvedor fullstack desenvolvendo aplicações com NodeJs, aplicando conhecimento nas bibliotecas mais conhecidas para o backend, como [Express](https://expressjs.com/pt-br/), persistência de dados em banco de dados relacional, etc. Para Frontend trabalho com Vuejs e ReactJs.
