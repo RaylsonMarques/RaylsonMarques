@@ -27,6 +27,6 @@
 </div>
 
 ### Sobre mim
-Eu sou um desenvolvedor fullstack desenvolvendo aplicações com NodeJs, aplicando conhecimento nas bibliotecas mais conhecidas para o backend, como [Express](https://expressjs.com/pt-br/), persistência de dados em banco de dados relacional, etc. Para Frontend trabalho com Vuejs e ReactJs.
+<p>Eu sou um desenvolvedor fullstack apaixonado por <strong>NodeJs</strong>, aplicando conhecimento nas bibliotecas mais conhecidas para o backend, como <a href="https://expressjs.com/pt-br/">Express</a>, persistência de dados em banco de dados relacional, etc. Para Frontend tenho conhecimentos com frameworks como Vuejs e ReactJs.</p>
 
 ![Snake animation](https://github.com/RaylsonMarques/RaylsonMarques/blob/output/github-contribution-grid-snake.svg)
