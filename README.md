@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/RaylsonMarques">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaylsonMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylsonMarques&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaylsonMarques&show_icons=true&theme=auto&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylsonMarques&layout=compact&langs_count=16&theme=auto"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
@@ -28,3 +28,5 @@
 
 ### Sobre mim
 Eu sou um desenvolvedor fullstack desenvolvendo aplicações com NodeJs, aplicando conhecimento nas bibliotecas mais conhecidas para o backend, como [Express](https://expressjs.com/pt-br/), persistência de dados em banco de dados relacional, etc. Para Frontend trabalho com Vuejs e ReactJs.
+
+![Snake animation](https://github.com/RaylsonMarques/RaylsonMarques/blob/output/github-contribution-grid-snake.svg)
